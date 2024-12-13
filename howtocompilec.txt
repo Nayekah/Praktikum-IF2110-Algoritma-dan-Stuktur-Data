@@ -1,0 +1,15 @@
+first, make sure to install c compiler
+
+then do in terminal (ignore the '[]') :
+
+gcc [ADT1.c ADT2.c ...] solver.c -o destinationfile
+
+example:
+in praktikum 02, i want to test kekayaan.c, then, do :
+
+gcc liststatik.c solver.c -o result (you can change the "result" part as you like)
+
+
+
+to run, do :
+./result (or your binary file name)
